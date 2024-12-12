@@ -1,7 +1,7 @@
 import React from 'react';
 import mad from '../assets/mad.png'; 
 import can from '../assets/can.png'; 
-import card from '../assets/card.png'; 
+// import card from '../assets/card.png'; 
 import ban from '../assets/ban.png'; 
 import loop from '../assets/loop.png'; 
 import moon from '../assets/moon.png';
