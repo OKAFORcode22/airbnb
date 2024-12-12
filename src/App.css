@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.man{
+  background-color: rgb(255, 33, 33);
+
+}
