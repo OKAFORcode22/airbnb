@@ -1,6 +1,6 @@
 import React from 'react'
 import airbnblogo from '../assets/airbnblogo.png'
-import icon from '../assets/icon.png'
+// import icon from '../assets/icon.png'
 import man from '../assets/man.png'
 import god from '../assets/god.png'
 import cup from '../assets/cup.png'
